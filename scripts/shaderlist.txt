@@ -1,4 +1,4 @@
 common
+shared_vega
 vega_custom
-vega_env
 vega_models
