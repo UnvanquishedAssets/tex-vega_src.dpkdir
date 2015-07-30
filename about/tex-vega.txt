@@ -1,0 +1,37 @@
+Month 99, 2000 AD
+=============================================================================
+
+Title                   : Vega texture set 
+
+Author                  : Stijn "Ingar" Buys
+
+Email Address           : ingar@telenet.be
+
+Web Site(s)             : http://ingar.satgnu.net
+                          https://github.com/IngarKCT/map-vega
+
+Description             : Texture set for the open source game Unvanquished
+                          http://www.unvanquished.net
+
+Credits to              : the Unvanquished Development Team
+
+=============================================================================
+
+	The Vega  texture set is available under the conditions 
+	of the Creative Commons License BY-SA-3.0
+
+	http://creativecommons.org/licenses/by-sa/3.0
+
+=============================================================================
+
+
+	This is the texture set I made for the Unvanquished map 
+	Vega Industries: Research Outpost 13. It is a complete overhaul
+	of the texture set made for the Tremulous map. They were created
+	from pictures and edited with the GIMP. Normal maps were generated
+	in Blender and with the GIMP. Some work was done in Inkscape.
+
+	Contact me if you're interested in the original high-res images.
+	
+	The Easter Eggs cartoon was made by Josky=KCT=.
+
