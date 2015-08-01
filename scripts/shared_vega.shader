@@ -781,7 +781,7 @@ textures/shared_vega/trim03a
 	
 	diffusemap	textures/shared_vega_src/trim03a_diffuse
 	normalmap	textures/shared_vega_src/trim03_normal
-	specularmap	textures/shared_vega_src/trim03_specular
+	specularmap	textures/shared_vega_src/trim03a_specular
 }
 
 textures/shared_vega/trim03b
