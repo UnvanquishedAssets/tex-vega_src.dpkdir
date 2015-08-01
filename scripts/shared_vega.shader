@@ -8,7 +8,7 @@
 // skybox "Vega" by Ingar
 textures/shared_vega/sky
 {
-      qer_editorimage env/shared_vega_src/sky_p
+      qer_editorimage textures/shared_vega_src/sky_p
       
       surfaceparm noimpact
       surfaceparm nolightmap
