@@ -1,30 +1,28 @@
-Month 99, 2000 AD
-=============================================================================
+env/shared_vega_src/*
+textures/shared_vega_src/*
 
-Title                   : Vega texture set 
+    Author
 
-Author                  : Stijn "Ingar" Buys
+        Stijn 'Ingar' Buys <ingar@osirion.org>
 
-Email Address           : ingar@telenet.be
+    License
 
-Web Site(s)             : http://ingar.satgnu.net
-                          https://github.com/IngarKCT/map-vega
+        These files are available under the terms and conditions
+        of either the CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 LICENSE or
+        the GENERAL PUBLIC LICENSE, version 2.
 
-Description             : Texture set for the open source game Unvanquished
-                          http://www.unvanquished.net
+        Please refer to the following documents  for more information about
+        these licenses.
 
-Credits to              : the Unvanquished Development Team
+        http://creativecommons.org/licenses/by-sa/3.0/
+        http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-=============================================================================
+    Source
 
-	The Vega  texture set is available under the conditions 
-	of the Creative Commons License BY-SA-3.0
+	https://github.com/IngarKCT/map-vega
 
-	http://creativecommons.org/licenses/by-sa/3.0
-
-=============================================================================
-
-
+    Notes
+    
 	This is the texture set I made for the Unvanquished map 
 	Vega Industries: Research Outpost 13. It is a complete overhaul
 	of the texture set made for the Tremulous map. They were created
@@ -34,4 +32,3 @@ Credits to              : the Unvanquished Development Team
 	Contact me if you're interested in the original high-res images.
 	
 	The Easter Eggs cartoon was made by Josky=KCT=.
-
