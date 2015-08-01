@@ -8,7 +8,7 @@
 // skybox "Vega" by Ingar
 textures/shared_vega/sky
 {
-      qer_editorimage env/vega/vega_p
+      qer_editorimage env/shared_vega_src/sky_p
       
       surfaceparm noimpact
       surfaceparm nolightmap
@@ -19,7 +19,7 @@ textures/shared_vega/sky
       // sunlight intensity
       q3map_surfacelight 150
 
-      skyparms env/vega/vega - -
+      skyparms env/shared_vega_src/sky - -
 }
 
 
