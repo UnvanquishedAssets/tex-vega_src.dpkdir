@@ -8,18 +8,18 @@
 // skybox "Vega" by Ingar
 textures/shared_vega/sky
 {
-      qer_editorimage textures/shared_vega_src/sky_p
+	qer_editorimage textures/shared_vega_src/sky_p
       
-      surfaceparm noimpact
-      surfaceparm nolightmap
-      surfaceparm sky
+	surfaceparm noimpact
+	surfaceparm nolightmap
+	surfaceparm sky
       
-      // sunlight position red green blue intensity degrees elevation
-      q3map_sun   .9 .9 .9 75 90 25
-      // sunlight intensity
-      q3map_surfacelight 150
+	// sunlight position red green blue intensity degrees elevation
+	q3map_sun   .9 .9 .9 75 90 25
+	// sunlight intensity
+	q3map_surfacelight 150
 
-      skyparms env/shared_vega_src/sky - -
+	skyparms env/shared_vega_src/sky - -
 }
 
 
@@ -1107,48 +1107,34 @@ textures/shared_vega/poster_radioactive
 	qer_editorimage textures/shared_vega_src/poster_radioactive_p
 
         surfaceparm nomarks
-	surfaceparm nonsolid
-	
+	surfaceparm nonsolid	
 	polygonOffset
 	sort decal
         noShadows
         
 	{
+		// this diffuse map does not have an alpha channel
+		stage diffuseMap
 		map textures/shared_vega_src/poster_radioactive_diffuse
-		alphafunc GE128
-		depthwrite
-		rgbGen identity
-	}
-	{
-		rgbGen identity
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
+// kharnov premium poster
 textures/shared_vega/poster_vodka
 {
 	qer_editorimage textures/shared_vega_src/poster_vodka_p
 
         surfaceparm nomarks
-	surfaceparm nonsolid
-	
+	surfaceparm nonsolid	
 	polygonOffset
 	sort decal
         noShadows
         
 	{
+		// this diffuse map does not have an alpha channel
+                stage diffuseMap
 		map textures/shared_vega_src/poster_vodka_p
-		alphafunc GE128
-		depthwrite
-		rgbGen identity
-	}
-	{
-		rgbGen identity
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
+
 	}
 }
 
@@ -1159,22 +1145,14 @@ textures/shared_vega/poster_kyp
 
         surfaceparm nomarks
 	surfaceparm nonsolid
-	
 	polygonOffset
 	sort decal
         noShadows
         
 	{
+		// this diffuse map does not have an alpha channel
+		stage diffuseMap
 		map textures/shared_vega_src/poster_kyp_diffuse
-		alphafunc GE128
-		depthwrite
-		rgbGen identity
-	}
-	{
-		rgbGen identity
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
@@ -1184,23 +1162,15 @@ textures/shared_vega/poster_eastereggs
 	qer_editorimage textures/shared_vega_src/poster_eastereggs_p
 
         surfaceparm nomarks
-	surfaceparm nonsolid
-	
+	surfaceparm nonsolid	
 	polygonOffset
 	sort decal
         noShadows
         
 	{
+		// this diffuse map does not have an alpha channel
+		stage diffuseMap
 		map textures/shared_vega_src/poster_eastereggs_diffuse
-		alphafunc GE128
-		depthwrite
-		rgbGen identity
-	}
-	{
-		rgbGen identity
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
@@ -1212,22 +1182,14 @@ textures/shared_vega/poster_voltage
 
         surfaceparm nomarks
 	surfaceparm nonsolid
-	
 	polygonOffset
 	sort decal
         noShadows
         
 	{
+		// this diffuse map does not have an alpha channel
+		stage diffuseMap
 		map textures/shared_vega_src/poster_voltage_diffuse
-		alphafunc GE128
-		depthwrite
-		rgbGen identity
-	}
-	{
-		rgbGen identity
-		map $lightmap
-		depthfunc equal
-		blendfunc filter
 	}
 }
 
