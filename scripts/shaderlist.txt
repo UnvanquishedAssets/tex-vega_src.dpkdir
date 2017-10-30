@@ -1,4 +1,1 @@
-common
 shared_vega
-vega_custom
-vega_models

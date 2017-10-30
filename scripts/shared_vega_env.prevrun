@@ -1,0 +1,13 @@
+[_init_]
+extend = "@game"
+
+[dir]
+source = "env/shared_vega_src"
+preview = "textures/shared_vega_src"
+
+[suffix]
+source = "_up"
+preview = "_p"
+
+[format]
+downscale = true
