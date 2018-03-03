@@ -1,6 +1,10 @@
 [_init_]
 extend = "@game"
 
+[suffix]
+source = [ "_d", "_b" ]
+preview = "_p"
+
 [dir]
 source = "textures/shared_vega_src"
 preview = "textures/shared_vega_src"
