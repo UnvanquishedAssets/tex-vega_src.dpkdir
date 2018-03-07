@@ -1,5 +1,5 @@
 [_init_]
-extend = "@game"
+extend = "${game}"
 
 [suffix]
 source = [ "_d", "_b" ]
