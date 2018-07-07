@@ -8,7 +8,7 @@
 // skybox "Vega" by Ingar
 textures/shared_vega/sky
 {
-	qer_editorimage textures/shared_vega_src/sky_p
+	qer_editorImage textures/shared_vega_src/sky_p
 
 	surfaceparm noimpact
 	surfaceparm nolightmap
@@ -32,20 +32,20 @@ textures/shared_vega/sky
 // base blue metal
 textures/shared_vega/base01
 {
-	qer_editorimage textures/shared_vega_src/base01_d
+	qer_editorImage textures/shared_vega_src/base01_d
 
-	diffusemap	textures/shared_vega_src/base01_d
-	normalmap	textures/shared_vega_src/base01_n
+	diffuseMap	textures/shared_vega_src/base01_d
+	normalMap	textures/shared_vega_src/base01_n
 	specularmap	textures/shared_vega_src/base01_s
 }
 
 // base blue metal (nonsolid)
 textures/shared_vega/base01_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/base01_d
+	qer_editorImage textures/shared_vega_src/base01_d
 
-	diffusemap	textures/shared_vega_src/base01_d
-	normalmap	textures/shared_vega_src/base01_n
+	diffuseMap	textures/shared_vega_src/base01_d
+	normalMap	textures/shared_vega_src/base01_n
 	specularmap	textures/shared_vega_src/base01_s
 
 	surfaceparm nonsolid
@@ -56,20 +56,20 @@ textures/shared_vega/base01_nonsolid
 // base black metal
 textures/shared_vega/base01a
 {
-	qer_editorimage textures/shared_vega_src/base01a_d
+	qer_editorImage textures/shared_vega_src/base01a_d
 
-	diffusemap	textures/shared_vega_src/base01a_d
-	normalmap	textures/shared_vega_src/base01_n
+	diffuseMap	textures/shared_vega_src/base01a_d
+	normalMap	textures/shared_vega_src/base01_n
 	specularmap	textures/shared_vega_src/base01_s
 }
 
 // base black metal (nonsolid)
 textures/shared_vega/base01a_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/base01a_d
+	qer_editorImage textures/shared_vega_src/base01a_d
 
-	diffusemap	textures/shared_vega_src/base01a_d
-	normalmap	textures/shared_vega_src/base01_n
+	diffuseMap	textures/shared_vega_src/base01a_d
+	normalMap	textures/shared_vega_src/base01_n
 	specularmap	textures/shared_vega_src/base01_s
 
 	surfaceparm nonsolid
@@ -79,19 +79,19 @@ textures/shared_vega/base01a_nonsolid
 
 textures/shared_vega/base02
 {
-	qer_editorimage textures/shared_vega_src/base02_d
+	qer_editorImage textures/shared_vega_src/base02_d
 
-	diffusemap	textures/shared_vega_src/base02_d
-	normalmap	textures/shared_vega_src/base02_n
+	diffuseMap	textures/shared_vega_src/base02_d
+	normalMap	textures/shared_vega_src/base02_n
 	specularmap	textures/shared_vega_src/base02_s
 }
 
 textures/shared_vega/base02_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/base02_d
+	qer_editorImage textures/shared_vega_src/base02_d
 
-	diffusemap	textures/shared_vega_src/base02_d
-	normalmap	textures/shared_vega_src/base02_n
+	diffuseMap	textures/shared_vega_src/base02_d
+	normalMap	textures/shared_vega_src/base02_n
 	specularmap	textures/shared_vega_src/base02_s
 
 	surfaceparm nonsolid
@@ -101,19 +101,19 @@ textures/shared_vega/base02_nonsolid
 
 textures/shared_vega/base03
 {
-	qer_editorimage textures/shared_vega_src/base03_d
+	qer_editorImage textures/shared_vega_src/base03_d
 
-	diffusemap	textures/shared_vega_src/base03_d
-	normalmap	textures/shared_vega_src/base03_n
+	diffuseMap	textures/shared_vega_src/base03_d
+	normalMap	textures/shared_vega_src/base03_n
 	specularmap	textures/shared_vega_src/base03_s
 }
 
 textures/shared_vega/base03_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/base03_d
+	qer_editorImage textures/shared_vega_src/base03_d
 
-	diffusemap	textures/shared_vega_src/base03_d
-	normalmap	textures/shared_vega_src/base03_n
+	diffuseMap	textures/shared_vega_src/base03_d
+	normalMap	textures/shared_vega_src/base03_n
 	specularmap	textures/shared_vega_src/base03_s
 
 	surfaceparm nonsolid
@@ -123,19 +123,19 @@ textures/shared_vega/base03_nonsolid
 
 textures/shared_vega/base03a
 {
-	qer_editorimage textures/shared_vega_src/base03a_d
+	qer_editorImage textures/shared_vega_src/base03a_d
 
-	diffusemap	textures/shared_vega_src/base03a_d
-	normalmap	textures/shared_vega_src/base03_n
+	diffuseMap	textures/shared_vega_src/base03a_d
+	normalMap	textures/shared_vega_src/base03_n
 	specularmap	textures/shared_vega_src/base03_s
 }
 
 textures/shared_vega/base03a_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/base03a_d
+	qer_editorImage textures/shared_vega_src/base03a_d
 
-	diffusemap	textures/shared_vega_src/base03a_d
-	normalmap	textures/shared_vega_src/base03_n
+	diffuseMap	textures/shared_vega_src/base03a_d
+	normalMap	textures/shared_vega_src/base03_n
 	specularmap	textures/shared_vega_src/base03_s
 
 	surfaceparm nonsolid
@@ -148,10 +148,10 @@ textures/shared_vega/base03a_nonsolid
 
 textures/shared_vega/concrete01
 {
-	qer_editorimage textures/shared_vega_src/concrete01_d
+	qer_editorImage textures/shared_vega_src/concrete01_d
 
-	diffusemap	textures/shared_vega_src/concrete01_d
-	normalmap	textures/shared_vega_src/concrete01_n
+	diffuseMap	textures/shared_vega_src/concrete01_d
+	normalMap	textures/shared_vega_src/concrete01_n
 	specularmap	textures/shared_vega_src/concrete01_s
 }
 
@@ -160,10 +160,10 @@ textures/shared_vega/concrete01
 
 textures/shared_vega/asphalt01
 {
-	qer_editorimage textures/shared_vega_src/asphalt01_d
+	qer_editorImage textures/shared_vega_src/asphalt01_d
 
-	diffusemap	textures/shared_vega_src/asphalt01_d
-	normalmap	textures/shared_vega_src/asphalt01_n
+	diffuseMap	textures/shared_vega_src/asphalt01_d
+	normalMap	textures/shared_vega_src/asphalt01_n
 	specularmap	textures/shared_vega_src/asphalt01_s
 }
 
@@ -172,19 +172,19 @@ textures/shared_vega/asphalt01
 
 textures/shared_vega/panel01
 {
-	qer_editorimage textures/shared_vega_src/panel01_d
+	qer_editorImage textures/shared_vega_src/panel01_d
 
-	diffusemap	textures/shared_vega_src/panel01_d
-	normalmap	textures/shared_vega_src/panel01_n
+	diffuseMap	textures/shared_vega_src/panel01_d
+	normalMap	textures/shared_vega_src/panel01_n
 	specularmap	textures/shared_vega_src/panel01_s
 }
 
 textures/shared_vega/panel01_nocull
 {
-	qer_editorimage textures/shared_vega_src/panel01_d
+	qer_editorImage textures/shared_vega_src/panel01_d
 
-	diffusemap	textures/shared_vega_src/panel01_d
-	normalmap	textures/shared_vega_src/panel01_n
+	diffuseMap	textures/shared_vega_src/panel01_d
+	normalMap	textures/shared_vega_src/panel01_n
 	specularmap	textures/shared_vega_src/panel01_s
 
 	cull none
@@ -192,74 +192,74 @@ textures/shared_vega/panel01_nocull
 
 textures/shared_vega/panel01a
 {
-	qer_editorimage textures/shared_vega_src/panel01a_d
+	qer_editorImage textures/shared_vega_src/panel01a_d
 
-	diffusemap	textures/shared_vega_src/panel01a_d
-	normalmap	textures/shared_vega_src/panel01_n
+	diffuseMap	textures/shared_vega_src/panel01a_d
+	normalMap	textures/shared_vega_src/panel01_n
 	specularmap	textures/shared_vega_src/panel01_s
 }
 
 textures/shared_vega/panel02
 {
-	qer_editorimage textures/shared_vega_src/panel02_d
+	qer_editorImage textures/shared_vega_src/panel02_d
 
-	diffusemap	textures/shared_vega_src/panel02_d
-	normalmap	textures/shared_vega_src/panel02_n
+	diffuseMap	textures/shared_vega_src/panel02_d
+	normalMap	textures/shared_vega_src/panel02_n
 	specularmap	textures/shared_vega_src/panel02_s
 }
 
 textures/shared_vega/panel02a
 {
-	qer_editorimage textures/shared_vega_src/panel02a_d
+	qer_editorImage textures/shared_vega_src/panel02a_d
 
-	diffusemap	textures/shared_vega_src/panel02a_d
-	normalmap	textures/shared_vega_src/panel02_n
+	diffuseMap	textures/shared_vega_src/panel02a_d
+	normalMap	textures/shared_vega_src/panel02_n
 	specularmap	textures/shared_vega_src/panel02_s
 }
 
 textures/shared_vega/panel03
 {
-	qer_editorimage textures/shared_vega_src/panel03_d
+	qer_editorImage textures/shared_vega_src/panel03_d
 
-	diffusemap	textures/shared_vega_src/panel03_d
-	normalmap	textures/shared_vega_src/panel03_n
+	diffuseMap	textures/shared_vega_src/panel03_d
+	normalMap	textures/shared_vega_src/panel03_n
 	specularmap	textures/shared_vega_src/panel03_s
 }
 
 textures/shared_vega/panel03a
 {
-	qer_editorimage textures/shared_vega_src/panel03a_d
+	qer_editorImage textures/shared_vega_src/panel03a_d
 
-	diffusemap	textures/shared_vega_src/panel03a_d
-	normalmap	textures/shared_vega_src/panel03_n
+	diffuseMap	textures/shared_vega_src/panel03a_d
+	normalMap	textures/shared_vega_src/panel03_n
 	specularmap	textures/shared_vega_src/panel03_s
 }
 
 textures/shared_vega/panel04
 {
-	qer_editorimage textures/shared_vega_src/panel04_d
+	qer_editorImage textures/shared_vega_src/panel04_d
 
-	diffusemap	textures/shared_vega_src/panel04_d
-	normalmap	textures/shared_vega_src/panel04_n
+	diffuseMap	textures/shared_vega_src/panel04_d
+	normalMap	textures/shared_vega_src/panel04_n
 	specularmap	textures/shared_vega_src/panel04_s
 }
 
 textures/shared_vega/panel04a
 {
-	qer_editorimage textures/shared_vega_src/panel04a_d
+	qer_editorImage textures/shared_vega_src/panel04a_d
 
-	diffusemap	textures/shared_vega_src/panel04a_d
-	normalmap	textures/shared_vega_src/panel04_n
+	diffuseMap	textures/shared_vega_src/panel04a_d
+	normalMap	textures/shared_vega_src/panel04_n
 	specularmap	textures/shared_vega_src/panel04_s
 }
 
 // panel with lights side)
 textures/shared_vega/panel05_300
 {
-	qer_editorimage textures/shared_vega_src/panel05_d
+	qer_editorImage textures/shared_vega_src/panel05_d
 
-	diffusemap	textures/shared_vega_src/panel05_d
-	normalmap	textures/shared_vega_src/panel05_n
+	diffuseMap	textures/shared_vega_src/panel05_d
+	normalMap	textures/shared_vega_src/panel05_n
 	specularmap	textures/shared_vega_src/panel05_s
 	glowmap         textures/shared_vega_src/panel05_a
 
@@ -268,10 +268,10 @@ textures/shared_vega/panel05_300
 
 textures/shared_vega/panel05_500
 {
-	qer_editorimage textures/shared_vega_src/panel05_d
+	qer_editorImage textures/shared_vega_src/panel05_d
 
-	diffusemap	textures/shared_vega_src/panel05_d
-	normalmap	textures/shared_vega_src/panel05_n
+	diffuseMap	textures/shared_vega_src/panel05_d
+	normalMap	textures/shared_vega_src/panel05_n
 	specularmap	textures/shared_vega_src/panel05_s
 	glowmap         textures/shared_vega_src/panel05_a
 
@@ -281,10 +281,10 @@ textures/shared_vega/panel05_500
 // panel with lights (centered)
 textures/shared_vega/panel06_300
 {
-	qer_editorimage textures/shared_vega_src/panel06_d
+	qer_editorImage textures/shared_vega_src/panel06_d
 
-	diffusemap	textures/shared_vega_src/panel06_d
-	normalmap	textures/shared_vega_src/panel06_n
+	diffuseMap	textures/shared_vega_src/panel06_d
+	normalMap	textures/shared_vega_src/panel06_n
 	specularmap	textures/shared_vega_src/panel06_s
 	glowmap         textures/shared_vega_src/panel06_a
 
@@ -293,10 +293,10 @@ textures/shared_vega/panel06_300
 
 textures/shared_vega/panel06_500
 {
-	qer_editorimage textures/shared_vega_src/panel06_d
+	qer_editorImage textures/shared_vega_src/panel06_d
 
-	diffusemap	textures/shared_vega_src/panel06_d
-	normalmap	textures/shared_vega_src/panel06_n
+	diffuseMap	textures/shared_vega_src/panel06_d
+	normalMap	textures/shared_vega_src/panel06_n
 	specularmap	textures/shared_vega_src/panel06_s
 	glowmap         textures/shared_vega_src/panel06_a
 
@@ -305,10 +305,10 @@ textures/shared_vega/panel06_500
 
 textures/shared_vega/panel06broken
 {
-	qer_editorimage textures/shared_vega_src/panel06broken_d
+	qer_editorImage textures/shared_vega_src/panel06broken_d
 
-	diffusemap	textures/shared_vega_src/panel06broken_d
-	normalmap	textures/shared_vega_src/panel06_n
+	diffuseMap	textures/shared_vega_src/panel06broken_d
+	normalMap	textures/shared_vega_src/panel06_n
 	specularmap	textures/shared_vega_src/panel06_s
 
 	q3map_surfacelight 100
@@ -327,57 +327,57 @@ textures/shared_vega/panel06broken
 
 textures/shared_vega/panel07
 {
-	qer_editorimage textures/shared_vega_src/panel07_d
+	qer_editorImage textures/shared_vega_src/panel07_d
 
-	diffusemap	textures/shared_vega_src/panel07_d
-	normalmap	textures/shared_vega_src/panel07_n
+	diffuseMap	textures/shared_vega_src/panel07_d
+	normalMap	textures/shared_vega_src/panel07_n
 	specularmap	textures/shared_vega_src/panel07_s
 }
 
 textures/shared_vega/panel07a
 {
-	qer_editorimage textures/shared_vega_src/panel07a_d
+	qer_editorImage textures/shared_vega_src/panel07a_d
 
-	diffusemap	textures/shared_vega_src/panel07a_d
-	normalmap	textures/shared_vega_src/panel07_n
+	diffuseMap	textures/shared_vega_src/panel07a_d
+	normalMap	textures/shared_vega_src/panel07_n
 	specularmap	textures/shared_vega_src/panel07_s
 }
 
 textures/shared_vega/panel07b
 {
-	qer_editorimage textures/shared_vega_src/panel07b_d
+	qer_editorImage textures/shared_vega_src/panel07b_d
 
-	diffusemap	textures/shared_vega_src/panel07b_d
-	normalmap	textures/shared_vega_src/panel07_n
+	diffuseMap	textures/shared_vega_src/panel07b_d
+	normalMap	textures/shared_vega_src/panel07_n
 	specularmap	textures/shared_vega_src/panel07_s
 }
 
 textures/shared_vega/panel07c
 {
-	qer_editorimage textures/shared_vega_src/panel07c_d
+	qer_editorImage textures/shared_vega_src/panel07c_d
 
-	diffusemap	textures/shared_vega_src/panel07c_d
-	normalmap	textures/shared_vega_src/panel07_n
+	diffuseMap	textures/shared_vega_src/panel07c_d
+	normalMap	textures/shared_vega_src/panel07_n
 	specularmap	textures/shared_vega_src/panel07_s
 }
 
 // beige panels
 textures/shared_vega/panel08
 {
-	qer_editorimage textures/shared_vega_src/panel08_d
+	qer_editorImage textures/shared_vega_src/panel08_d
 
-	diffusemap	textures/shared_vega_src/panel08_d
-	normalmap	textures/shared_vega_src/panel08_n
+	diffuseMap	textures/shared_vega_src/panel08_d
+	normalMap	textures/shared_vega_src/panel08_n
 	specularmap	textures/shared_vega_src/panel08_s
 }
 
 // beige panels with light strips
 textures/shared_vega/panel08a_300
 {
-	qer_editorimage textures/shared_vega_src/panel08a_d
+	qer_editorImage textures/shared_vega_src/panel08a_d
 
-	diffusemap	textures/shared_vega_src/panel08a_d
-	normalmap	textures/shared_vega_src/panel08_n
+	diffuseMap	textures/shared_vega_src/panel08a_d
+	normalMap	textures/shared_vega_src/panel08_n
 	specularmap	textures/shared_vega_src/panel08_s
 	glowmap         textures/shared_vega_src/panel08a_a
 
@@ -388,10 +388,10 @@ textures/shared_vega/panel08a_300
 // metal panel with round blue lights
 textures/shared_vega/light01_300
 {
-	qer_editorimage textures/shared_vega_src/light01_d
+	qer_editorImage textures/shared_vega_src/light01_d
 
-	diffusemap	textures/shared_vega_src/light01_d
-	normalmap	textures/shared_vega_src/light01_n
+	diffuseMap	textures/shared_vega_src/light01_d
+	normalMap	textures/shared_vega_src/light01_n
 	specularmap	textures/shared_vega_src/light01_s
 	glowmap         textures/shared_vega_src/light01_a
 
@@ -403,10 +403,10 @@ textures/shared_vega/light01_300
 // metal panel (dark) with round blue lights
 textures/shared_vega/light01a_300
 {
-	qer_editorimage textures/shared_vega_src/light01a_d
+	qer_editorImage textures/shared_vega_src/light01a_d
 
-	diffusemap	textures/shared_vega_src/light01a_d
-	normalmap	textures/shared_vega_src/light01_n
+	diffuseMap	textures/shared_vega_src/light01a_d
+	normalMap	textures/shared_vega_src/light01_n
 	specularmap	textures/shared_vega_src/light01_s
 	glowmap         textures/shared_vega_src/light01_a
 
@@ -418,10 +418,10 @@ textures/shared_vega/light01a_300
 // metal panel with round brown lights
 textures/shared_vega/light02_300
 {
-	qer_editorimage textures/shared_vega_src/light02_p
+	qer_editorImage textures/shared_vega_src/light02_p
 
-	diffusemap	textures/shared_vega_src/light02_d
-	normalmap	textures/shared_vega_src/light02_n
+	diffuseMap	textures/shared_vega_src/light02_d
+	normalMap	textures/shared_vega_src/light02_n
 	specularmap	textures/shared_vega_src/light02_s
 	glowmap         textures/shared_vega_src/light02_a
 
@@ -433,20 +433,20 @@ textures/shared_vega/light02_300
 // metal panel with round brown lights (no light)
 textures/shared_vega/light02_off
 {
-	qer_editorimage textures/shared_vega_src/light02_off_p
+	qer_editorImage textures/shared_vega_src/light02_off_p
 
-	diffusemap	textures/shared_vega_src/light02_d
-	normalmap	textures/shared_vega_src/light02_n
+	diffuseMap	textures/shared_vega_src/light02_d
+	normalMap	textures/shared_vega_src/light02_n
 	specularmap	textures/shared_vega_src/light02_s
 }
 
 // metal panel (dark) with round brown lights
 textures/shared_vega/light02a_300
 {
-	qer_editorimage textures/shared_vega_src/light02a_p
+	qer_editorImage textures/shared_vega_src/light02a_p
 
-	diffusemap	textures/shared_vega_src/light02a_d
-	normalmap	textures/shared_vega_src/light02_n
+	diffuseMap	textures/shared_vega_src/light02a_d
+	normalMap	textures/shared_vega_src/light02_n
 	specularmap	textures/shared_vega_src/light02_s
 	glowmap         textures/shared_vega_src/light02_a
 
@@ -458,20 +458,20 @@ textures/shared_vega/light02a_300
 // metal panel (dark) with round brown lights (no light)
 textures/shared_vega/light02a_off
 {
-	qer_editorimage textures/shared_vega_src/light02a_off_p
+	qer_editorImage textures/shared_vega_src/light02a_off_p
 
-	diffusemap	textures/shared_vega_src/light02a_d
-	normalmap	textures/shared_vega_src/light02_n
+	diffuseMap	textures/shared_vega_src/light02a_d
+	normalMap	textures/shared_vega_src/light02_n
 	specularmap	textures/shared_vega_src/light02_s
 }
 
 // small round blue light (blue metal background)
 textures/shared_vega/light03_1500
 {
-	qer_editorimage textures/shared_vega_src/light03_d
+	qer_editorImage textures/shared_vega_src/light03_d
 
-	diffusemap	textures/shared_vega_src/light03_d
-	normalmap	textures/shared_vega_src/light03_n
+	diffuseMap	textures/shared_vega_src/light03_d
+	normalMap	textures/shared_vega_src/light03_n
 	specularmap	textures/shared_vega_src/light03_s
 	glowmap         textures/shared_vega_src/light03_a
 
@@ -483,10 +483,10 @@ textures/shared_vega/light03_1500
 // small round blue light (dark metal background)
 textures/shared_vega/light03a_1500
 {
-	qer_editorimage textures/shared_vega_src/light03a_d
+	qer_editorImage textures/shared_vega_src/light03a_d
 
-	diffusemap	textures/shared_vega_src/light03a_d
-	normalmap	textures/shared_vega_src/light03_n
+	diffuseMap	textures/shared_vega_src/light03a_d
+	normalMap	textures/shared_vega_src/light03_n
 	specularmap	textures/shared_vega_src/light03_s
 	glowmap         textures/shared_vega_src/light03_a
 
@@ -498,10 +498,10 @@ textures/shared_vega/light03a_1500
 // small round brown light (blue metal background)
 textures/shared_vega/light04_1500
 {
-	qer_editorimage textures/shared_vega_src/light04_d
+	qer_editorImage textures/shared_vega_src/light04_d
 
-	diffusemap	textures/shared_vega_src/light04_d
-	normalmap	textures/shared_vega_src/light04_n
+	diffuseMap	textures/shared_vega_src/light04_d
+	normalMap	textures/shared_vega_src/light04_n
 	specularmap	textures/shared_vega_src/light04_s
 	glowmap         textures/shared_vega_src/light04_a
 
@@ -513,10 +513,10 @@ textures/shared_vega/light04_1500
 // small round brown light (dark metal background)
 textures/shared_vega/light04a_1500
 {
-	qer_editorimage textures/shared_vega_src/light04a_d
+	qer_editorImage textures/shared_vega_src/light04a_d
 
-	diffusemap	textures/shared_vega_src/light04a_d
-	normalmap	textures/shared_vega_src/light04_n
+	diffuseMap	textures/shared_vega_src/light04a_d
+	normalMap	textures/shared_vega_src/light04_n
 	specularmap	textures/shared_vega_src/light04_s
 	glowmap         textures/shared_vega_src/light04_a
 
@@ -528,21 +528,21 @@ textures/shared_vega/light04a_1500
 // small square light
 textures/shared_vega/squarelight01_off
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_off_d
+	qer_editorImage textures/shared_vega_src/squarelight01_off_d
 
-	diffusemap	textures/shared_vega_src/squarelight01_off_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_off_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s
 }
 
 textures/shared_vega/squarelight01_white_1500
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_white_p
+	qer_editorImage textures/shared_vega_src/squarelight01_white_p
 
 	q3map_surfacelight 1500
 
-	diffusemap	textures/shared_vega_src/squarelight01_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s
 	{
 		blend add
@@ -555,14 +555,14 @@ textures/shared_vega/squarelight01_white_1500
 
 textures/shared_vega/squarelight01_blue_1500
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_blue_p
+	qer_editorImage textures/shared_vega_src/squarelight01_blue_p
 
 	// blue #73C0D7
 	q3map_lightRGB 0.6078 0.7529 0.8431
 	q3map_surfacelight 1500
 
-	diffusemap	textures/shared_vega_src/squarelight01_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s	
 	{
 		blend add
@@ -575,14 +575,14 @@ textures/shared_vega/squarelight01_blue_1500
 
 textures/shared_vega/squarelight01_red_1500
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_red_p
+	qer_editorImage textures/shared_vega_src/squarelight01_red_p
 
 	// red
 	q3map_lightRGB 1.0 0.0 0.0
 	q3map_surfacelight 1500
 
-	diffusemap	textures/shared_vega_src/squarelight01_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s	
 	{
 		blend add
@@ -595,14 +595,14 @@ textures/shared_vega/squarelight01_red_1500
 
 textures/shared_vega/squarelight01_green_1500
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_green_p
+	qer_editorImage textures/shared_vega_src/squarelight01_green_p
 
 	// green
 	q3map_lightRGB 0.0 1.0 0.0
 	q3map_surfacelight 1500
 
-	diffusemap	textures/shared_vega_src/squarelight01_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s	
 	{
 		blend add
@@ -615,14 +615,14 @@ textures/shared_vega/squarelight01_green_1500
 
 textures/shared_vega/squarelight01_yellow_1500
 {
-	qer_editorimage textures/shared_vega_src/squarelight01_yellow_p
+	qer_editorImage textures/shared_vega_src/squarelight01_yellow_p
 
 	// yellow
 	q3map_lightRGB 1.0 1.0 0.0
 	q3map_surfacelight 1500
 
-	diffusemap	textures/shared_vega_src/squarelight01_d
-	normalmap	textures/shared_vega_src/squarelight01_n
+	diffuseMap	textures/shared_vega_src/squarelight01_d
+	normalMap	textures/shared_vega_src/squarelight01_n
 	specularmap	textures/shared_vega_src/squarelight01_s	
 	{
 		blend add
@@ -638,10 +638,10 @@ textures/shared_vega/squarelight01_yellow_1500
 
 textures/shared_vega/dirt01
 {
-	qer_editorimage textures/shared_vega_src/dirt01_d
+	qer_editorImage textures/shared_vega_src/dirt01_d
 
-	diffusemap	textures/shared_vega_src/dirt01_d
-	normalmap	textures/shared_vega_src/dirt01_n
+	diffuseMap	textures/shared_vega_src/dirt01_d
+	normalMap	textures/shared_vega_src/dirt01_n
 	specularmap	textures/shared_vega_src/dirt01_s
 }
 
@@ -650,7 +650,7 @@ textures/shared_vega/dirt01
 
 textures/shared_vega/glass01
 {
-	qer_editorimage textures/shared_vega_src/glass01_b
+	qer_editorImage textures/shared_vega_src/glass01_b
 	qer_trans .7
 
 	cull none
@@ -675,10 +675,10 @@ textures/shared_vega/glass01
 
 textures/shared_vega/rust01
 {
-	qer_editorimage textures/shared_vega_src/rust01_d
+	qer_editorImage textures/shared_vega_src/rust01_d
 
-	diffusemap	textures/shared_vega_src/rust01_d
-	normalmap	textures/shared_vega_src/rust01_n
+	diffuseMap	textures/shared_vega_src/rust01_d
+	normalMap	textures/shared_vega_src/rust01_n
 	specularmap	textures/shared_vega_src/rust01_s
 }
 
@@ -687,46 +687,46 @@ textures/shared_vega/rust01
 
 textures/shared_vega/tile01
 {
-	qer_editorimage textures/shared_vega_src/tile01_d
+	qer_editorImage textures/shared_vega_src/tile01_d
 
-	diffusemap	textures/shared_vega_src/tile01_d
-	normalmap	textures/shared_vega_src/tile01_n
+	diffuseMap	textures/shared_vega_src/tile01_d
+	normalMap	textures/shared_vega_src/tile01_n
 	specularmap	textures/shared_vega_src/tile01_s
 }
 
 textures/shared_vega/tile01a
 {
-	qer_editorimage textures/shared_vega_src/tile01a_d
+	qer_editorImage textures/shared_vega_src/tile01a_d
 
-	diffusemap	textures/shared_vega_src/tile01a_d
-	normalmap	textures/shared_vega_src/tile01_n
+	diffuseMap	textures/shared_vega_src/tile01a_d
+	normalMap	textures/shared_vega_src/tile01_n
 	specularmap	textures/shared_vega_src/tile01_s
 }
 
 textures/shared_vega/tile02
 {
-	qer_editorimage textures/shared_vega_src/tile02_d
+	qer_editorImage textures/shared_vega_src/tile02_d
 
-	diffusemap	textures/shared_vega_src/tile02_d
-	normalmap	textures/shared_vega_src/tile02_n
+	diffuseMap	textures/shared_vega_src/tile02_d
+	normalMap	textures/shared_vega_src/tile02_n
 	specularmap	textures/shared_vega_src/tile02_s
 }
 
 textures/shared_vega/tile02a
 {
-	qer_editorimage textures/shared_vega_src/tile02a_d
+	qer_editorImage textures/shared_vega_src/tile02a_d
 
-	diffusemap	textures/shared_vega_src/tile02a_d
-	normalmap	textures/shared_vega_src/tile02_n
+	diffuseMap	textures/shared_vega_src/tile02a_d
+	normalMap	textures/shared_vega_src/tile02_n
 	specularmap	textures/shared_vega_src/tile02_s
 }
 
 textures/shared_vega/tile03
 {
-	qer_editorimage textures/shared_vega_src/tile03_d
+	qer_editorImage textures/shared_vega_src/tile03_d
 
-	diffusemap	textures/shared_vega_src/tile03_d
-	normalmap	textures/shared_vega_src/tile03_n
+	diffuseMap	textures/shared_vega_src/tile03_d
+	normalMap	textures/shared_vega_src/tile03_n
 	specularmap	textures/shared_vega_src/tile03_s
 }
 
@@ -735,73 +735,73 @@ textures/shared_vega/tile03
 
 textures/shared_vega/trim01
 {
-	qer_editorimage textures/shared_vega_src/trim01_d
+	qer_editorImage textures/shared_vega_src/trim01_d
 
-	diffusemap	textures/shared_vega_src/trim01_d
-	normalmap	textures/shared_vega_src/trim01_n
+	diffuseMap	textures/shared_vega_src/trim01_d
+	normalMap	textures/shared_vega_src/trim01_n
 	specularmap	textures/shared_vega_src/trim01_s
 }
 
 textures/shared_vega/trim01a
 {
-	qer_editorimage textures/shared_vega_src/trim01a_d
+	qer_editorImage textures/shared_vega_src/trim01a_d
 
-	diffusemap	textures/shared_vega_src/trim01a_d
-	normalmap	textures/shared_vega_src/trim01_n
+	diffuseMap	textures/shared_vega_src/trim01a_d
+	normalMap	textures/shared_vega_src/trim01_n
 	specularmap	textures/shared_vega_src/trim01_s
 }
 
 textures/shared_vega/trim02
 {
-	qer_editorimage textures/shared_vega_src/trim02_d
+	qer_editorImage textures/shared_vega_src/trim02_d
 
-	diffusemap	textures/shared_vega_src/trim02_d
-	normalmap	textures/shared_vega_src/trim02_n
+	diffuseMap	textures/shared_vega_src/trim02_d
+	normalMap	textures/shared_vega_src/trim02_n
 	specularmap	textures/shared_vega_src/trim02_s
 }
 
 textures/shared_vega/trim02a
 {
-	qer_editorimage textures/shared_vega_src/trim02a_d
+	qer_editorImage textures/shared_vega_src/trim02a_d
 
-	diffusemap	textures/shared_vega_src/trim02a_d
-	normalmap	textures/shared_vega_src/trim02_n
+	diffuseMap	textures/shared_vega_src/trim02a_d
+	normalMap	textures/shared_vega_src/trim02_n
 	specularmap	textures/shared_vega_src/trim02_s
 }
 
 textures/shared_vega/trim03
 {
-	qer_editorimage textures/shared_vega_src/trim03_d
+	qer_editorImage textures/shared_vega_src/trim03_d
 
-	diffusemap	textures/shared_vega_src/trim03_d
-	normalmap	textures/shared_vega_src/trim03_n
+	diffuseMap	textures/shared_vega_src/trim03_d
+	normalMap	textures/shared_vega_src/trim03_n
 	specularmap	textures/shared_vega_src/trim03_s
 }
 
 textures/shared_vega/trim03a
 {
-	qer_editorimage textures/shared_vega_src/trim03a_d
+	qer_editorImage textures/shared_vega_src/trim03a_d
 
-	diffusemap	textures/shared_vega_src/trim03a_d
-	normalmap	textures/shared_vega_src/trim03_n
+	diffuseMap	textures/shared_vega_src/trim03a_d
+	normalMap	textures/shared_vega_src/trim03_n
 	specularmap	textures/shared_vega_src/trim03a_s
 }
 
 textures/shared_vega/trim03b
 {
-	qer_editorimage textures/shared_vega_src/trim03b_d
+	qer_editorImage textures/shared_vega_src/trim03b_d
 
-	diffusemap	textures/shared_vega_src/trim03b_d
-	normalmap	textures/shared_vega_src/trim03_n
+	diffuseMap	textures/shared_vega_src/trim03b_d
+	normalMap	textures/shared_vega_src/trim03_n
 	specularmap	textures/shared_vega_src/trim03_s
 }
 
 textures/shared_vega/trim03b_white_1000
 {
-	qer_editorimage textures/shared_vega_src/trim03b_white_p
+	qer_editorImage textures/shared_vega_src/trim03b_white_p
 
-	normalmap	textures/shared_vega_src/trim03_n
-	diffusemap	textures/shared_vega_src/trim03b_light_d
+	normalMap	textures/shared_vega_src/trim03_n
+	diffuseMap	textures/shared_vega_src/trim03b_light_d
 	specularmap	textures/shared_vega_src/trim03b_light_s
 	glowmap         textures/shared_vega_src/trim03b_white_a
 
@@ -810,10 +810,10 @@ textures/shared_vega/trim03b_white_1000
 
 textures/shared_vega/trim03b_green_1000
 {
-	qer_editorimage textures/shared_vega_src/trim03b_green_p
+	qer_editorImage textures/shared_vega_src/trim03b_green_p
 
-	normalmap	textures/shared_vega_src/trim03_n
-	diffusemap	textures/shared_vega_src/trim03b_light_d	
+	normalMap	textures/shared_vega_src/trim03_n
+	diffuseMap	textures/shared_vega_src/trim03b_light_d	
 	specularmap	textures/shared_vega_src/trim03b_light_s
 	glowmap         textures/shared_vega_src/trim03b_green_a
 
@@ -825,47 +825,47 @@ textures/shared_vega/trim03b_green_1000
 
 textures/shared_vega/trim04
 {
-	qer_editorimage textures/shared_vega_src/trim04_d
+	qer_editorImage textures/shared_vega_src/trim04_d
 
-	diffusemap	textures/shared_vega_src/trim04_d
-	normalmap	textures/shared_vega_src/trim04_n
+	diffuseMap	textures/shared_vega_src/trim04_d
+	normalMap	textures/shared_vega_src/trim04_n
 	specularmap	textures/shared_vega_src/trim04_s
 }
 
 textures/shared_vega/trim05
 {
-	qer_editorimage textures/shared_vega_src/trim05_d
+	qer_editorImage textures/shared_vega_src/trim05_d
 
-	diffusemap	textures/shared_vega_src/trim05_d
-	normalmap	textures/shared_vega_src/trim05_n
+	diffuseMap	textures/shared_vega_src/trim05_d
+	normalMap	textures/shared_vega_src/trim05_n
 	specularmap	textures/shared_vega_src/trim05_s
 }
 
 textures/shared_vega/trim06
 {
-	qer_editorimage textures/shared_vega_src/trim06_d
+	qer_editorImage textures/shared_vega_src/trim06_d
 
-	diffusemap	textures/shared_vega_src/trim06_d
-	normalmap	textures/shared_vega_src/trim06_n
+	diffuseMap	textures/shared_vega_src/trim06_d
+	normalMap	textures/shared_vega_src/trim06_n
 	specularmap	textures/shared_vega_src/trim06_s
 }
 
 textures/shared_vega/trim07
 {
-	qer_editorimage textures/shared_vega_src/trim07_d
+	qer_editorImage textures/shared_vega_src/trim07_d
 
-	diffusemap	textures/shared_vega_src/trim07_d
-	normalmap	textures/shared_vega_src/trim07_n
+	diffuseMap	textures/shared_vega_src/trim07_d
+	normalMap	textures/shared_vega_src/trim07_n
 	specularmap	textures/shared_vega_src/trim07_s
 }
 
 // elevator light strip
 textures/shared_vega/trim08
 {
-	qer_editorimage textures/shared_vega_src/trim08_p
+	qer_editorImage textures/shared_vega_src/trim08_p
 
-	diffusemap	textures/shared_vega_src/trim08_d
-	normalmap	textures/shared_vega_src/trim08_n
+	diffuseMap	textures/shared_vega_src/trim08_d
+	normalMap	textures/shared_vega_src/trim08_n
 	specularmap	textures/shared_vega_src/trim08_s
 
 	q3map_surfacelight 500
@@ -892,7 +892,7 @@ textures/shared_vega/trim08
 // grate01
 textures/shared_vega/grate01
 {
-	qer_editorimage textures/shared_vega_src/grate01_b
+	qer_editorImage textures/shared_vega_src/grate01_b
 	qer_trans .7
 
 	surfaceparm nomarks
@@ -919,7 +919,7 @@ textures/shared_vega/grate01
 // grate01 (nonsolid)
 textures/shared_vega/grate01_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/grate01_b
+	qer_editorImage textures/shared_vega_src/grate01_b
 	qer_trans .7
 
 	surfaceparm nomarks
@@ -945,7 +945,7 @@ textures/shared_vega/grate01_nonsolid
 // grate02
 textures/shared_vega/grate02
 {
-	qer_editorimage textures/shared_vega_src/grate02_b
+	qer_editorImage textures/shared_vega_src/grate02_b
 	qer_trans .7
 
 	surfaceparm nomarks
@@ -972,7 +972,7 @@ textures/shared_vega/grate02
 // grate02 (nonsolid)
 textures/shared_vega/grate02_nonsolid
 {
-	qer_editorimage textures/shared_vega_src/grate02_b
+	qer_editorImage textures/shared_vega_src/grate02_b
 	qer_trans .7
 
 	surfaceparm nomarks
@@ -1001,19 +1001,19 @@ textures/shared_vega/grate02_nonsolid
 
 textures/shared_vega/floor01
 {
-	qer_editorimage textures/shared_vega_src/floor01_d
+	qer_editorImage textures/shared_vega_src/floor01_d
 
-	diffusemap	textures/shared_vega_src/floor01_d
-	normalmap	textures/shared_vega_src/floor01_n
+	diffuseMap	textures/shared_vega_src/floor01_d
+	normalMap	textures/shared_vega_src/floor01_n
 	specularmap	textures/shared_vega_src/floor01_s
 }
 
 textures/shared_vega/floor02
 {
-	qer_editorimage textures/shared_vega_src/floor02_d
+	qer_editorImage textures/shared_vega_src/floor02_d
 
-	diffusemap	textures/shared_vega_src/floor02_d
-	normalmap	textures/shared_vega_src/floor02_n
+	diffuseMap	textures/shared_vega_src/floor02_d
+	normalMap	textures/shared_vega_src/floor02_n
 	specularmap	textures/shared_vega_src/floor02_s
 
 	surfaceparm metalsteps
@@ -1024,19 +1024,19 @@ textures/shared_vega/floor02
 
 textures/shared_vega/pipe01
 {
-	qer_editorimage textures/shared_vega_src/pipe01_d
+	qer_editorImage textures/shared_vega_src/pipe01_d
 
-	diffusemap	textures/shared_vega_src/pipe01_d
-	normalmap	textures/shared_vega_src/pipe01_n
+	diffuseMap	textures/shared_vega_src/pipe01_d
+	normalMap	textures/shared_vega_src/pipe01_n
 	specularmap	textures/shared_vega_src/pipe01_s
 }
 
 textures/shared_vega/pipe01a
 {
-	qer_editorimage textures/shared_vega_src/pipe01a_d
+	qer_editorImage textures/shared_vega_src/pipe01a_d
 
-	diffusemap	textures/shared_vega_src/pipe01_d
-	normalmap	textures/shared_vega_src/pipe01_n
+	diffuseMap	textures/shared_vega_src/pipe01_d
+	normalMap	textures/shared_vega_src/pipe01_n
 	specularmap	textures/shared_vega_src/pipe01_s
 }
 
@@ -1045,10 +1045,10 @@ textures/shared_vega/pipe01a
 
 textures/shared_vega/wood01
 {
-	qer_editorimage textures/shared_vega_src/wood01_d
+	qer_editorImage textures/shared_vega_src/wood01_d
 
-	diffusemap	textures/shared_vega_src/wood01_d
-	normalmap	textures/shared_vega_src/wood01_n
+	diffuseMap	textures/shared_vega_src/wood01_d
+	normalMap	textures/shared_vega_src/wood01_n
 	specularmap	textures/shared_vega_src/wood01_s
 }
 
@@ -1057,10 +1057,10 @@ textures/shared_vega/wood01
 
 textures/shared_vega/controls01
 {
-	qer_editorimage textures/shared_vega_src/controls01_d
+	qer_editorImage textures/shared_vega_src/controls01_d
 
-	diffusemap	textures/shared_vega_src/controls01_d
-	normalmap	textures/shared_vega_src/controls01_n
+	diffuseMap	textures/shared_vega_src/controls01_d
+	normalMap	textures/shared_vega_src/controls01_n
 	specularmap	textures/shared_vega_src/controls01_s
 
 	{
@@ -1072,10 +1072,10 @@ textures/shared_vega/controls01
 
 textures/shared_vega/controls02
 {
-	qer_editorimage textures/shared_vega_src/controls02_p
+	qer_editorImage textures/shared_vega_src/controls02_p
 
-	diffusemap	textures/shared_vega_src/controls02_d
-	normalmap	textures/shared_vega_src/controls02_n
+	diffuseMap	textures/shared_vega_src/controls02_d
+	normalMap	textures/shared_vega_src/controls02_n
 	specularmap	textures/shared_vega_src/controls02_s
 	glowmap		textures/shared_vega_src/controls02_a
 
@@ -1085,10 +1085,10 @@ textures/shared_vega/controls02
 
 textures/shared_vega/controls03
 {
-	qer_editorimage textures/shared_vega_src/controls03_d
+	qer_editorImage textures/shared_vega_src/controls03_d
 
-	diffusemap	textures/shared_vega_src/controls03_d
-	normalmap	textures/shared_vega_src/controls03_n
+	diffuseMap	textures/shared_vega_src/controls03_d
+	normalMap	textures/shared_vega_src/controls03_n
 	specularmap	textures/shared_vega_src/controls03_s
 
 	q3map_surfacelight 50
@@ -1107,7 +1107,7 @@ textures/shared_vega/controls03
 // radioactive warning sign
 textures/shared_vega/poster_radioactive
 {
-	qer_editorimage textures/shared_vega_src/poster_radioactive_d
+	qer_editorImage textures/shared_vega_src/poster_radioactive_d
 
 	surfaceparm nomarks
 	surfaceparm nonsolid	
@@ -1125,7 +1125,7 @@ textures/shared_vega/poster_radioactive
 // kharnov premium poster
 textures/shared_vega/poster_vodka
 {
-	qer_editorimage textures/shared_vega_src/poster_vodka_d
+	qer_editorImage textures/shared_vega_src/poster_vodka_d
 
 	surfaceparm nomarks
 	surfaceparm nonsolid	
@@ -1144,7 +1144,7 @@ textures/shared_vega/poster_vodka
 // kyp name tag
 textures/shared_vega/poster_kyp
 {
-	qer_editorimage textures/shared_vega_src/poster_kyp_d
+	qer_editorImage textures/shared_vega_src/poster_kyp_d
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
@@ -1162,7 +1162,7 @@ textures/shared_vega/poster_kyp
 // easter eggs drawing by Josky=KCT=
 textures/shared_vega/poster_eastereggs
 {
-	qer_editorimage textures/shared_vega_src/poster_eastereggs_d
+	qer_editorImage textures/shared_vega_src/poster_eastereggs_d
 
 	surfaceparm nomarks
 	surfaceparm nonsolid	
@@ -1181,7 +1181,7 @@ textures/shared_vega/poster_eastereggs
 // high voltage warning sign
 textures/shared_vega/poster_voltage
 {
-	qer_editorimage textures/shared_vega_src/poster_voltage_d
+	qer_editorImage textures/shared_vega_src/poster_voltage_d
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
@@ -1202,28 +1202,28 @@ textures/shared_vega/poster_voltage
 
 textures/shared_vega/safebox41
 {
-	qer_editorimage textures/shared_vega_src/safebox41_d
+	qer_editorImage textures/shared_vega_src/safebox41_d
 
-	diffusemap	textures/shared_vega_src/safebox41_d
-	normalmap	textures/shared_vega_src/safebox_n
+	diffuseMap	textures/shared_vega_src/safebox41_d
+	normalMap	textures/shared_vega_src/safebox_n
 	specularmap	textures/shared_vega_src/safebox41_s
 }
 
 textures/shared_vega/safebox42
 {
-	qer_editorimage textures/shared_vega_src/safebox42_d
+	qer_editorImage textures/shared_vega_src/safebox42_d
 
-	diffusemap	textures/shared_vega_src/safebox42_d
-	normalmap	textures/shared_vega_src/safebox_small_n
+	diffuseMap	textures/shared_vega_src/safebox42_d
+	normalMap	textures/shared_vega_src/safebox_small_n
 	specularmap	textures/shared_vega_src/safebox42_s
 }
 
 textures/shared_vega/safebox46
 {
-	qer_editorimage textures/shared_vega_src/safebox46_d
+	qer_editorImage textures/shared_vega_src/safebox46_d
 
-	diffusemap	textures/shared_vega_src/safebox46_d
-	normalmap	textures/shared_vega_src/safebox_small_n
+	diffuseMap	textures/shared_vega_src/safebox46_d
+	normalMap	textures/shared_vega_src/safebox_small_n
 	specularmap	textures/shared_vega_src/safebox46_s
 }
 
@@ -1232,7 +1232,7 @@ textures/shared_vega/safebox46
 
 textures/shared_vega/water
 {
-	qer_editorimage textures/shared_vega_src/water_p
+	qer_editorImage textures/shared_vega_src/water_p
 	qer_trans .5
 
 	surfaceparm nonsolid
@@ -1257,7 +1257,7 @@ textures/shared_vega/water
 // plasma in glass pipe
 textures/shared_vega/plasma_pipe
 {
-	qer_editorimage textures/shared_vega_src/plasma_pipe_p
+	qer_editorImage textures/shared_vega_src/plasma_pipe_p
 	qer_trans .7
 
 	surfaceparm nonsolid
@@ -1284,7 +1284,7 @@ textures/shared_vega/plasma_pipe
 // plasma whirlpool
 textures/shared_vega/plasma_whirl
 {
-	qer_editorimage textures/shared_vega_src/plasma_whirl_p
+	qer_editorImage textures/shared_vega_src/plasma_whirl_p
 
 	q3map_surfacelight 150
 	// radioactive green #00f200
@@ -1313,7 +1313,7 @@ textures/shared_vega/plasma_whirl
 // base in a shader from the Tremulous map slimepunk by Taiyo.uk
 textures/shared_vega/plasma_nodraw
 {
-	qer_editorimage textures/shared_vega_src/plasma_nodraw_p
+	qer_editorImage textures/shared_vega_src/plasma_nodraw_p
 	qer_trans 0.7
 
 	surfaceparm noimpact
