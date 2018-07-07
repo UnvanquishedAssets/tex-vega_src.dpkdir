@@ -433,7 +433,7 @@ textures/shared_vega/light02_300
 // metal panel with round brown lights (no light)
 textures/shared_vega/light02_off
 {
-	qer_editorImage textures/shared_vega_src/light02_off_p
+	qer_editorImage textures/shared_vega_src/light02_d
 
 	diffuseMap	textures/shared_vega_src/light02_d
 	normalMap	textures/shared_vega_src/light02_n
@@ -458,7 +458,7 @@ textures/shared_vega/light02a_300
 // metal panel (dark) with round brown lights (no light)
 textures/shared_vega/light02a_off
 {
-	qer_editorImage textures/shared_vega_src/light02a_off_p
+	qer_editorImage textures/shared_vega_src/light02a_d
 
 	diffuseMap	textures/shared_vega_src/light02a_d
 	normalMap	textures/shared_vega_src/light02_n
