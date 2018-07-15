@@ -893,7 +893,7 @@ textures/shared_vega/trim08
 textures/shared_vega/grate01
 {
 	qer_editorImage textures/shared_vega_src/grate01_b
-	qer_trans .7
+	qer_alphaFunc greater 0.5
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
@@ -920,7 +920,7 @@ textures/shared_vega/grate01
 textures/shared_vega/grate01_nonsolid
 {
 	qer_editorImage textures/shared_vega_src/grate01_b
-	qer_trans .7
+	qer_alphaFunc greater 0.5
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
@@ -946,7 +946,7 @@ textures/shared_vega/grate01_nonsolid
 textures/shared_vega/grate02
 {
 	qer_editorImage textures/shared_vega_src/grate02_b
-	qer_trans .7
+	qer_alphaFunc greater 0.5
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
@@ -973,7 +973,7 @@ textures/shared_vega/grate02
 textures/shared_vega/grate02_nonsolid
 {
 	qer_editorImage textures/shared_vega_src/grate02_b
-	qer_trans .7
+	qer_alphaFunc greater 0.5
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
