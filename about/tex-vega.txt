@@ -32,3 +32,4 @@ textures/shared_vega_src/*
 	Contact me if you're interested in the original high-res images.
 	
 	The Easter Eggs cartoon was made by Josky=KCT=.
+
