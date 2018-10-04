@@ -316,12 +316,12 @@ textures/shared_vega/panel06broken
 	// -- lightmap style does not work
 	// q3map_lightstyle 1	
 	// -- add the following to worldspawn
-	// _style1rgbGen wave sawtooth 0.0 1.0 0 0.5
+	// _style1rgbGen wave sawtooth 0 1 0 .5
 
 	{
 		map textures/shared_vega_src/panel06_a
 		blend add
-		rgbGen wave sawtooth 0.0 1.0 0 0.5
+		rgbGen wave sawtooth 0 1 0 .5
 	}
 }
 
@@ -382,7 +382,7 @@ textures/shared_vega/panel08a_300
 	glowmap         textures/shared_vega_src/panel08a_a
 
 	q3map_surfacelight 300
-	q3map_lightRGB 1.0 1.0 0.93
+	q3map_lightRGB 1 1 .93
 }
 
 // metal panel with round blue lights
@@ -397,7 +397,7 @@ textures/shared_vega/light01_300
 
 	q3map_surfacelight 300
 	// blue #73C0D7
-	q3map_lightRGB 0.6078 0.7529 0.8431
+	q3map_lightRGB .6078 .7529 .8431
 }
 
 // metal panel (dark) with round blue lights
@@ -412,7 +412,7 @@ textures/shared_vega/light01a_300
 
 	q3map_surfacelight 300
 	// blue #73C0D7
-	q3map_lightRGB 0.6078 0.7529 0.8431
+	q3map_lightRGB .6078 .7529 .8431
 }
 
 // metal panel with round brown lights
@@ -427,7 +427,7 @@ textures/shared_vega/light02_300
 
 	q3map_surfacelight 300
 	// brown #BEB39A
-	q3map_lightRGB 0.745098 0.701961 0.603922
+	q3map_lightRGB .745098 .701961 .603922
 }
 
 // metal panel with round brown lights (no light)
@@ -452,7 +452,7 @@ textures/shared_vega/light02a_300
 
 	q3map_surfacelight 300
 	// brown #BEB39A
-	q3map_lightRGB 0.745098 0.701961 0.603922
+	q3map_lightRGB .745098 .701961 .603922
 }
 
 // metal panel (dark) with round brown lights (no light)
@@ -477,7 +477,7 @@ textures/shared_vega/light03_1500
 
 	q3map_surfacelight 1500
 	// blue #73C0D7
-	q3map_lightRGB 0.6078 0.7529 0.8431
+	q3map_lightRGB .6078 .7529 .8431
 }
 
 // small round blue light (dark metal background)
@@ -492,7 +492,7 @@ textures/shared_vega/light03a_1500
 
 	q3map_surfacelight 1500
 	// blue #73C0D7
-	q3map_lightRGB 0.6078 0.7529 0.8431
+	q3map_lightRGB .6078 .7529 .8431
 }
 
 // small round brown light (blue metal background)
@@ -507,7 +507,7 @@ textures/shared_vega/light04_1500
 
 	q3map_surfacelight 1500
 	// brown #BEB39A
-	q3map_lightRGB 0.745098 0.701961 0.603922
+	q3map_lightRGB .745098 .701961 .603922
 }
 
 // small round brown light (dark metal background)
@@ -522,7 +522,7 @@ textures/shared_vega/light04a_1500
 
 	q3map_surfacelight 1500
 	// brown #BEB39A
-	q3map_lightRGB 0.745098 0.701961 0.603922
+	q3map_lightRGB .745098 .701961 .603922
 }
 
 // small square light
@@ -547,9 +547,9 @@ textures/shared_vega/squarelight01_white_1500
 	{
 		blend add
 		map textures/shared_vega_src/squarelight01_a
-		red 1.0
-		green 1.0
-		blue 1.0
+		red 1
+		green 1
+		blue 1
 	}
 }
 
@@ -558,7 +558,7 @@ textures/shared_vega/squarelight01_blue_1500
 	qer_editorImage textures/shared_vega_src/squarelight01_blue_p
 
 	// blue #73C0D7
-	q3map_lightRGB 0.6078 0.7529 0.8431
+	q3map_lightRGB .6078 .7529 .8431
 	q3map_surfacelight 1500
 
 	diffuseMap	textures/shared_vega_src/squarelight01_d
@@ -567,9 +567,9 @@ textures/shared_vega/squarelight01_blue_1500
 	{
 		blend add
 		map textures/shared_vega_src/squarelight01_a
-		red 0.6078 
-		green 0.7529 
-		blue 0.8431
+		red .6078 
+		green .7529 
+		blue .8431
 	}
 }
 
@@ -578,7 +578,7 @@ textures/shared_vega/squarelight01_red_1500
 	qer_editorImage textures/shared_vega_src/squarelight01_red_p
 
 	// red
-	q3map_lightRGB 1.0 0.0 0.0
+	q3map_lightRGB 1 0 0
 	q3map_surfacelight 1500
 
 	diffuseMap	textures/shared_vega_src/squarelight01_d
@@ -587,9 +587,9 @@ textures/shared_vega/squarelight01_red_1500
 	{
 		blend add
 		map textures/shared_vega_src/squarelight01_a
-		red 1.0
-		green 0.0
-		blue 0.0
+		red 1
+		green 0
+		blue 0
 	}
 }
 
@@ -598,7 +598,7 @@ textures/shared_vega/squarelight01_green_1500
 	qer_editorImage textures/shared_vega_src/squarelight01_green_p
 
 	// green
-	q3map_lightRGB 0.0 1.0 0.0
+	q3map_lightRGB 0 1 0
 	q3map_surfacelight 1500
 
 	diffuseMap	textures/shared_vega_src/squarelight01_d
@@ -607,9 +607,9 @@ textures/shared_vega/squarelight01_green_1500
 	{
 		blend add
 		map textures/shared_vega_src/squarelight01_a
-		red 0.0
-		green 1.0
-		blue 0.0
+		red 0
+		green 1
+		blue 0
 	}
 }
 
@@ -618,7 +618,7 @@ textures/shared_vega/squarelight01_yellow_1500
 	qer_editorImage textures/shared_vega_src/squarelight01_yellow_p
 
 	// yellow
-	q3map_lightRGB 1.0 1.0 0.0
+	q3map_lightRGB 1 1 0
 	q3map_surfacelight 1500
 
 	diffuseMap	textures/shared_vega_src/squarelight01_d
@@ -627,9 +627,9 @@ textures/shared_vega/squarelight01_yellow_1500
 	{
 		blend add
 		map textures/shared_vega_src/squarelight01_a
-		red 1.0
-		green 1.0
-		blue 0.0
+		red 1
+		green 1
+		blue 0
 	}
 }
 
@@ -818,7 +818,7 @@ textures/shared_vega/trim03b_green_1000
 	glowmap         textures/shared_vega_src/trim03b_green_a
 
 	// green #b3ffb3
-	q3map_lightRGB 0.7020 1.0 0.7020
+	q3map_lightRGB .702 1 .702
 
 	q3map_surfacelight 1000
 }
@@ -870,19 +870,19 @@ textures/shared_vega/trim08
 
 	q3map_surfacelight 500
 	// yellow #ffff80
-	q3map_lightRGB  1.0 1.0 0.5020
+	q3map_lightRGB  1 1 .502
 
 	{
 		map textures/shared_vega_src/trim08_1_a
 		blend add
 		// rgbGen wave <func> <base> <amp> <phase> <freq>
-		rgbGen wave square .25 0.75 0 1
+		rgbGen wave square .25 .75 0 1
 	}
 	{
 		map textures/shared_vega_src/trim08_2_a
 		blend add
 		// rgbGen wave <func> <base> <amp> <phase> <freq>
-		rgbGen wave square .25 0.75 .5 1
+		rgbGen wave square .25 .75 .5 1
 	}
 }
 
@@ -893,7 +893,7 @@ textures/shared_vega/trim08
 textures/shared_vega/grate01
 {
 	qer_editorImage textures/shared_vega_src/grate01_b
-	qer_alphaFunc greater 0.5
+	qer_alphaFunc greater .5
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
@@ -920,7 +920,7 @@ textures/shared_vega/grate01
 textures/shared_vega/grate01_nonsolid
 {
 	qer_editorImage textures/shared_vega_src/grate01_b
-	qer_alphaFunc greater 0.5
+	qer_alphaFunc greater .5
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
@@ -946,7 +946,7 @@ textures/shared_vega/grate01_nonsolid
 textures/shared_vega/grate02
 {
 	qer_editorImage textures/shared_vega_src/grate02_b
-	qer_alphaFunc greater 0.5
+	qer_alphaFunc greater .5
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
@@ -973,7 +973,7 @@ textures/shared_vega/grate02
 textures/shared_vega/grate02_nonsolid
 {
 	qer_editorImage textures/shared_vega_src/grate02_b
-	qer_alphaFunc greater 0.5
+	qer_alphaFunc greater .5
 
 	surfaceparm nomarks
 	surfaceparm nonsolid
@@ -1066,7 +1066,7 @@ textures/shared_vega/controls01
 	{
 		map textures/shared_vega_src/controls01_a
 		blend add
-		rgbGen wave square 0.0 1.0 0 1
+		rgbGen wave square 0 1 0 1
 	}
 }
 
@@ -1080,7 +1080,7 @@ textures/shared_vega/controls02
 	glowmap		textures/shared_vega_src/controls02_a
 
 	q3map_surfacelight 50
-	q3map_lightRGB 1.0 1.0 0.93
+	q3map_lightRGB 1 1 .93
 }
 
 textures/shared_vega/controls03
@@ -1092,12 +1092,12 @@ textures/shared_vega/controls03
 	specularmap	textures/shared_vega_src/controls03_s
 
 	q3map_surfacelight 50
-	q3map_lightRGB 1.0 0.0 0.0
+	q3map_lightRGB 1 0 0
 
 	{
 		map textures/shared_vega_src/controls03_a
 		blend add
-		rgbGen wave square 0.0 1.0 0 1
+		rgbGen wave square 0 1 0 1
 	}
 }
 
@@ -1267,11 +1267,11 @@ textures/shared_vega/plasma_pipe
 
 	q3map_surfacelight 150	
 	// radioactive green #00f200
-	q3map_lightRGB 0.0 0.95 0.0
+	q3map_lightRGB 0 .95 0
 
 	{
 		map textures/shared_vega_src/plasma_pipe_b
-		tcmod scroll 0.0 0.5
+		tcmod scroll 0 .5
 		blend blend
 	}
 	{
@@ -1288,7 +1288,7 @@ textures/shared_vega/plasma_whirl
 
 	q3map_surfacelight 150
 	// radioactive green #00f200
-	q3map_lightRGB 0.0 0.95 0.0
+	q3map_lightRGB 0 .95 0
 	q3map_globaltexture
 
 	surfaceparm nonsolid
@@ -1303,7 +1303,7 @@ textures/shared_vega/plasma_whirl
 	{
 		map textures/shared_vega_src/plasma_whirl_b
 		//tcmod scale .5 .5
-		//tcmod turb 1.0 0.5 0.0 0.1
+		//tcmod turb 1 .5 0 .1
 		tcmod rotate 20
 		blend blend
 	}
@@ -1314,7 +1314,7 @@ textures/shared_vega/plasma_whirl
 textures/shared_vega/plasma_nodraw
 {
 	qer_editorImage textures/shared_vega_src/plasma_nodraw_p
-	qer_trans 0.7
+	qer_trans .7
 
 	surfaceparm noimpact
 	surfaceparm slime
