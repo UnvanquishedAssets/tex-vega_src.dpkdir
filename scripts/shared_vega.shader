@@ -675,7 +675,10 @@ textures/shared_vega/squarelight01_white_1500
 		normalMap   textures/shared_vega_src/squarelight01_n
 		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/squarelight01_s
-		glowMap     textures/shared_vega_src/squarelight01_a
+	}
+	{
+		map         textures/shared_vega_src/squarelight01_a
+		blend add
 		red   1
 		green 1
 		blue  1
@@ -695,7 +698,10 @@ textures/shared_vega/squarelight01_blue_1500
 		normalMap   textures/shared_vega_src/squarelight01_n
 		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/squarelight01_s
-		glowMap     textures/shared_vega_src/squarelight01_a
+	}
+	{
+		map         textures/shared_vega_src/squarelight01_a
+		blend add
 		red   .6078
 		green .7529
 		blue  .8431
@@ -715,7 +721,10 @@ textures/shared_vega/squarelight01_red_1500
 		normalMap   textures/shared_vega_src/squarelight01_n
 		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/squarelight01_s
-		glowMap     textures/shared_vega_src/squarelight01_a
+	}
+	{
+		map         textures/shared_vega_src/squarelight01_a
+		blend add
 		red   1
 		green 0
 		blue  0
@@ -735,7 +744,10 @@ textures/shared_vega/squarelight01_green_1500
 		normalMap   textures/shared_vega_src/squarelight01_n
 		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/squarelight01_s
-		glowMap     textures/shared_vega_src/squarelight01_a
+	}
+	{
+		map         textures/shared_vega_src/squarelight01_a
+		blend add
 		red   0
 		green 1
 		blue  0
@@ -755,7 +767,10 @@ textures/shared_vega/squarelight01_yellow_1500
 		normalMap   textures/shared_vega_src/squarelight01_n
 		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/squarelight01_s
-		glowMap     textures/shared_vega_src/squarelight01_a
+	}
+	{
+		map         textures/shared_vega_src/squarelight01_a
+		blend add
 		red   1
 		green 1
 		blue  0
