@@ -497,6 +497,7 @@ textures/shared_vega/light01_300
 	q3map_surfacelight 300
 	// blue #73C0D7
 	q3map_lightRGB .6078 .7529 .8431
+	q3map_lightSubdivide 60
 }
 
 // metal panel (dark) with round blue lights
@@ -515,6 +516,7 @@ textures/shared_vega/light01a_300
 	q3map_surfacelight 300
 	// blue #73C0D7
 	q3map_lightRGB .6078 .7529 .8431
+	q3map_lightSubdivide 60
 }
 
 // metal panel with round brown lights
@@ -533,6 +535,7 @@ textures/shared_vega/light02_300
 	q3map_surfacelight 300
 	// brown #BEB39A
 	q3map_lightRGB .745098 .701961 .603922
+	q3map_lightSubdivide 60
 }
 
 // metal panel with round brown lights (no light)
@@ -564,6 +567,7 @@ textures/shared_vega/light02a_300
 	q3map_surfacelight 300
 	// brown #BEB39A
 	q3map_lightRGB .745098 .701961 .603922
+	q3map_lightSubdivide 60
 }
 
 // metal panel (dark) with round brown lights (no light)
