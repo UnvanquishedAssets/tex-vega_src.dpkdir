@@ -7,7 +7,7 @@ Vega texture set for Unvanquished
 About
 -----
 
-[_Vega Industries: Research Outpost 13_](../map-vega_src.dpkdir/README.md) is a game level featuring a futuristic research station for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this game level.
+[_Vega Industries: Research Outpost 13_](https://github.com/UnvanquishedAssets/map-vega_src.dpkdir) is a game level featuring a futuristic research station for the [Unvanquished](https://unvanquished.net) game project. This is the texture set originally designed for this map.
 
 This texture set is a work in progress by Stijn “Ingar” Buys for the [Unvanquished](https://unvanquished.net) game project.
 
