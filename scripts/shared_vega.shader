@@ -1072,6 +1072,8 @@ textures/shared_vega/trim08
 {
 	qer_editorImage textures/shared_vega_src/trim08_p
 
+	imageMinDimension 32
+
 	{
 		diffuseMap  textures/shared_vega_src/trim08_d
 		normalMap   textures/shared_vega_src/trim08_n
@@ -1114,6 +1116,8 @@ textures/shared_vega/grate01
 	polygonOffset
 	cull none
 
+	imageMinDimension 256
+
 	{
 		diffuseMap textures/shared_vega_src/grate01_b
 		alphafunc GE128
@@ -1133,6 +1137,8 @@ textures/shared_vega/grate01_nonsolid
 	surfaceparm metalsteps
 
 	cull none
+
+	imageMinDimension 256
 
 	{
 		diffuseMap textures/shared_vega_src/grate01_b
@@ -1155,6 +1161,8 @@ textures/shared_vega/grate02
 	polygonOffset
 	cull none
 
+	imageMinDimension 128
+
 	{
 		diffuseMap textures/shared_vega_src/grate02_b
 		alphafunc GE128
@@ -1174,6 +1182,8 @@ textures/shared_vega/grate02_nonsolid
 	surfaceparm metalsteps
 
 	cull none
+
+	imageMinDimension 128
 
 	{
 		diffuseMap textures/shared_vega_src/grate02_b
@@ -1327,6 +1337,8 @@ textures/shared_vega/poster_radioactive
 	sort decal
 	noShadows
 
+	imageMinDimension 256
+
 	{
 		// this diffuse map does not have an alpha channel
 		diffuseMap textures/shared_vega_src/poster_radioactive_d
@@ -1343,6 +1355,8 @@ textures/shared_vega/poster_vodka
 	polygonOffset
 	sort decal
 	noShadows
+
+	imageMinDimension 256
 
 	{
 		// this diffuse map does not have an alpha channel
@@ -1361,6 +1375,8 @@ textures/shared_vega/poster_kyp
 	sort decal
 	noShadows
 
+	imageMinDimension 128
+
 	{
 		// this diffuse map does not have an alpha channel
 		diffuseMap textures/shared_vega_src/poster_kyp_d
@@ -1377,6 +1393,8 @@ textures/shared_vega/poster_eastereggs
 	polygonOffset
 	sort decal
 	noShadows
+
+	imageMinDimension 256
 
 	{
 		// this diffuse map does not have an alpha channel
