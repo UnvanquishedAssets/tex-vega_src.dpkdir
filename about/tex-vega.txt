@@ -1,35 +1,34 @@
 env/shared_vega_src/*
 textures/shared_vega_src/*
 
-    Author
+	Author
 
-        Stijn 'Ingar' Buys <ingar@osirion.org>
+		Stijn 'Ingar' Buys <ingar@osirion.org>
 
-    License
+	License
 
-        These files are available under the terms and conditions
-        of either the CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 LICENSE or
-        the GENERAL PUBLIC LICENSE, version 2.
+		These files are available under the terms and conditions
+		of either the CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 LICENSE or
+		the GENERAL PUBLIC LICENSE, version 2.
 
-        Please refer to the following documents  for more information about
-        these licenses.
+		Please refer to the following documents  for more information about
+		these licenses.
 
-        http://creativecommons.org/licenses/by-sa/3.0/
-        http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+		http://creativecommons.org/licenses/by-sa/3.0/
+		http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-    Source
+	Source
 
 	https://github.com/IngarKCT/map-vega
 
-    Notes
-    
-	This is the texture set I made for the Unvanquished map 
+	Notes
+
+	This is the texture set I made for the Unvanquished map
 	Vega Industries: Research Outpost 13. It is a complete overhaul
 	of the texture set made for the Tremulous map. They were created
 	from pictures and edited with the GIMP. Normal maps were generated
 	in Blender and with the GIMP. Some work was done in Inkscape.
 
 	Contact me if you're interested in the original high-res images.
-	
-	The Easter Eggs cartoon was made by Josky=KCT=.
 
+	The Easter Eggs cartoon was made by Josky=KCT=.
