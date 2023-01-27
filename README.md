@@ -1,7 +1,7 @@
 Vega texture set for Unvanquished
 =================================
 
-![Vega workshop](.pakinfo/extra/vega-sign-workshop.png)
+![Vega workshop](.urcheon/extra/vega-sign-workshop.png)
 
 
 About
