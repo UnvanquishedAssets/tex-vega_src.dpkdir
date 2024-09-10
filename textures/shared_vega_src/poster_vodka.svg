@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="768"
+   height="1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="poster_vodka.svg"
+   inkscape:export-filename="/home/ingar/projects/textures/vega2/export_unvanquished/poster_vodka_diffuse.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="160.36046"
+     inkscape:cy="542.25308"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1814"
+     inkscape:window-height="999"
+     inkscape:window-x="-4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362183)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.92594671;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985"
+       width="765.07404"
+       height="1021.074"
+       x="0.96297312"
+       y="29.825176"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3755"
+       width="557.60419"
+       height="183.3427"
+       x="99.269798"
+       y="709.09827"
+       ry="0"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144px;line-height:125%;font-family:'SquareSlab Med';-inkscape-font-specification:'SquareSlab Med Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="209.3764"
+       y="847.23669"
+       id="text3757"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         sodipodi:role="line"
+         id="tspan3759"
+         x="209.3764"
+         y="847.23669">Vodka</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00c300;fill-opacity:1;stroke:#000000;stroke-width:1.59675694;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3761"
+       sodipodi:sides="5"
+       sodipodi:cx="380.35899"
+       sodipodi:cy="445.02005"
+       sodipodi:r1="81.202965"
+       sodipodi:r2="40.601482"
+       sodipodi:arg1="0.60177584"
+       sodipodi:arg2="1.2300944"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 447.29715,490.98964 -53.37124,-7.70187 -36.60157,39.59965 -9.16772,-53.13907 -48.972,-22.57321 47.70527,-25.13988 6.33522,-53.55066 38.65119,37.60177 52.88739,-10.52292 -23.81753,48.37906 z"
+       inkscape:transform-center-x="7.118098"
+       inkscape:transform-center-y="0.66595864"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:129.11801147px;line-height:100%;font-family:AardvarkBold;-inkscape-font-specification:'AardvarkBold, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="45.189285"
+       y="236.85413"
+       id="text3763"
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         sodipodi:role="line"
+         x="45.189285"
+         y="236.85413"
+         id="tspan3767"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:129.11801147px;line-height:100%;font-family:AardvarkBold;-inkscape-font-specification:'AardvarkBold, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">KHARNOV</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3771"
+       y="674.39905"
+       x="251.8746"
+       style="font-style:normal;font-weight:normal;font-size:72px;line-height:125%;font-family:'Stevens Light';-inkscape-font-specification:'Stevens Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         id="tspan3773"
+         y="674.39905"
+         x="251.8746"
+         sodipodi:role="line">Premium</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="101.18241"
+       y="980.08405"
+       id="text3775"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         sodipodi:role="line"
+         id="tspan3777"
+         x="101.18241"
+         y="980.08405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans">45%</tspan></text>
+    <text
+       sodipodi:linespacing="120%"
+       id="text3783"
+       y="925.63861"
+       x="648.83209"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:Sans;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         y="925.63861"
+         x="648.83209"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         id="tspan3005">Do not expose to magnetic fields,</tspan><tspan
+         y="943.63861"
+         x="648.83209"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         id="tspan3018">high-energy radiation or fire. Do not</tspan><tspan
+         y="961.63861"
+         x="648.83209"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         id="tspan3020">mix with nitrogen acid. Do not inhale</tspan><tspan
+         y="979.63861"
+         x="648.83209"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:120.00000477%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end"
+         id="tspan3022">fumes. Do not shake bottle.</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.821427,607.8979 557.142863,0"
+       id="path3810"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3771-7"
+       y="291.30573"
+       x="194.13155"
+       style="font-style:normal;font-weight:normal;font-size:72px;line-height:125%;font-family:'Stevens Light';-inkscape-font-specification:'Stevens Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/projects/textures/vega2/poster_vodka_diffuse.png"
+       inkscape:export-xdpi="45.000004"
+       inkscape:export-ydpi="45.000004"><tspan
+         id="tspan3773-4"
+         y="291.30573"
+         x="194.13155"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Stevens Light';-inkscape-font-specification:'Stevens Light, Thin';text-align:start;writing-mode:lr-tb;text-anchor:start">The mind-blowing experience</tspan></text>
+  </g>
+</svg>
