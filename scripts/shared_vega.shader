@@ -1112,8 +1112,6 @@ textures/shared_vega/grate01
 	surfaceparm nomarks
 	surfaceparm metalsteps
 
-	// polygonOffset fixes Z-fighting with objects on top of the grate
-	polygonOffset
 	cull none
 
 	imageMinDimension 256
@@ -1157,8 +1155,6 @@ textures/shared_vega/grate02
 	surfaceparm nomarks
 	surfaceparm metalsteps
 
-	// polygonOffset fixes Z-fighting with objects on top of the grate
-	polygonOffset
 	cull none
 
 	imageMinDimension 128
