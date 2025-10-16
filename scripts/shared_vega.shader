@@ -814,6 +814,7 @@ textures/shared_vega/glass01
 
 	{
 		map textures/shared_vega_src/glass01_b
+		rawColorMap
 		blend filter
 	}
 
