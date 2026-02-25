@@ -804,6 +804,8 @@ textures/shared_vega/glass01
 	qer_editorImage textures/shared_vega_src/glass01_b
 	qer_trans .7
 
+	surfaceparm alphashadow
+
 	cull none
 
 	{
