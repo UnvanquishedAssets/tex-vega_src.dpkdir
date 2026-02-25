@@ -1112,6 +1112,7 @@ textures/shared_vega/grate01
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
+	surfaceparm alphashadow
 
 	cull none
 
@@ -1134,6 +1135,7 @@ textures/shared_vega/grate01_nonsolid
 	surfaceparm nomarks
 	surfaceparm nonsolid
 	surfaceparm metalsteps
+	surfaceparm alphashadow
 
 	cull none
 
@@ -1155,6 +1157,7 @@ textures/shared_vega/grate02
 
 	surfaceparm nomarks
 	surfaceparm metalsteps
+	surfaceparm alphashadow
 
 	cull none
 
@@ -1177,6 +1180,7 @@ textures/shared_vega/grate02_nonsolid
 	surfaceparm nomarks
 	surfaceparm nonsolid
 	surfaceparm metalsteps
+	surfaceparm alphashadow
 
 	cull none
 
