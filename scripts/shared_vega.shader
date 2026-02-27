@@ -479,6 +479,7 @@ textures/shared_vega/panel08a_300
 
 	q3map_surfacelight 300
 	q3map_lightRGB 1 1 .93
+	q3map_lightSubdivide 16
 }
 
 // metal panel with round blue lights
