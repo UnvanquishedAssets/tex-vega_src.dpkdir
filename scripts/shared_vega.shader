@@ -1018,6 +1018,8 @@ textures/shared_vega/trim03b_green_1000
 
 	{
 		diffuseMap textures/shared_vega_src/trim03b_light_d
+		normalMap textures/shared_vega_src/trim03_n
+		normalFormat -X -Y Z
 		specularMap textures/shared_vega_src/trim03b_light_s
 		glowMap textures/shared_vega_src/trim03b_green_a
 	}
