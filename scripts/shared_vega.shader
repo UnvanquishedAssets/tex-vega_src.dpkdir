@@ -330,6 +330,7 @@ textures/shared_vega/panel05_300
 	}
 
 	q3map_surfacelight 300
+	q3map_lightSubdivide 16
 }
 
 textures/shared_vega/panel05_500
@@ -345,6 +346,7 @@ textures/shared_vega/panel05_500
 	}
 
 	q3map_surfacelight 500
+	q3map_lightSubdivide 16
 }
 
 // panel with lights (centered)
@@ -361,6 +363,7 @@ textures/shared_vega/panel06_300
 	}
 
 	q3map_surfacelight 300
+	q3map_lightSubdivide 16
 }
 
 textures/shared_vega/panel06_500
@@ -376,6 +379,7 @@ textures/shared_vega/panel06_500
 	}
 
 	q3map_surfacelight 500
+	q3map_lightSubdivide 16
 }
 
 textures/shared_vega/panel06broken
