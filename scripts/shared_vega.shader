@@ -1009,6 +1009,7 @@ textures/shared_vega/trim03b_white_1000
 	}
 
 	q3map_surfacelight 1000
+	q3map_lightSubdivide 16
 }
 
 textures/shared_vega/trim03b_green_1000
@@ -1025,6 +1026,7 @@ textures/shared_vega/trim03b_green_1000
 	q3map_lightRGB .702 1 .702
 
 	q3map_surfacelight 1000
+	q3map_lightSubdivide 16
 }
 
 textures/shared_vega/trim04
